@@ -1,0 +1,40 @@
+body {
+  background-color: PowderBlue;
+}
+h1 { 
+color: DarkGreen;
+  font-family:Trebuchet MS;
+}
+h2 {
+  color:MidnightBlue;
+ font-family:Trebuchet Ms;
+}
+p {
+color: Black;
+  font-family: Arial; 
+}
+a{
+  color: DarkGreen;
+  font-family: Arial;
+}
+li { 
+  font-family: Arial
+  
+}
+div {
+  width:;
+   margin-left:;
+  margin-top:;
+  margin-bottom:;
+  margin-right:;
+}
+div.Navigation {
+  width:;
+  margin-left:;
+  margin-top:;
+  margin-bottom:;
+  margin-right:;
+}
+.Navigation a:hover{
+  color:Orange;
+}
